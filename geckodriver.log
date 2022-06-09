@@ -1,0 +1,1921 @@
+1653738992027	geckodriver	INFO	Listening on 127.0.0.1:50706
+1653739060323	geckodriver	INFO	Listening on 127.0.0.1:50788
+1653739124036	geckodriver	INFO	Listening on 127.0.0.1:50878
+1653739473584	geckodriver	INFO	Listening on 127.0.0.1:51289
+1653739655338	geckodriver	INFO	Listening on 127.0.0.1:51801
+1653739658367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51802" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilesEgAT6"
+1653739659178	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilesEgAT6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51802/devtools/browser/29564473-2753-461e-937e-c712d16dce2d
+1653739664419	Marionette	INFO	Listening on port 51831
+Read port: 51831
+1653739665949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 17: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1653739677874	Marionette	INFO	Stopped listening on port 51831
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653739701179	geckodriver	INFO	Listening on 127.0.0.1:51927
+1653739704209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51928" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileGVq1fi"
+1653739704937	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileGVq1fi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51928/devtools/browser/aa7fa08e-3c09-4573-930e-747b3562353e
+1653739709710	Marionette	INFO	Listening on port 51957
+Read port: 51957
+1653739711458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653739786548	Marionette	INFO	Stopped listening on port 51957
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653739788503	geckodriver	INFO	Listening on 127.0.0.1:52087
+1653739791560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52088" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileSO30EI"
+1653739792085	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileSO30EI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52088/devtools/browser/0254bf04-462c-4d02-b443-dfee962ed894
+1653739796648	Marionette	INFO	Listening on port 52119
+Read port: 52119
+1653739797790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1653739872776	Marionette	INFO	Stopped listening on port 52119
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653739968325	geckodriver	INFO	Listening on 127.0.0.1:52413
+1653739971362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52414" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilegd2gYH"
+1653739972032	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilegd2gYH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52414/devtools/browser/4efd7ab6-8458-42d4-bf5b-3263da6e75a6
+1653739976334	Marionette	INFO	Listening on port 52444
+Read port: 52444
+1653739977126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F line 1 > eval line 5980 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1653754787308	Marionette	INFO	Stopped listening on port 52444
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PImageBridgeChild] Error: Send(msgname=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+red for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1653740807127	Marionette	INFO	Stopped listening on port 58047
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11740, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653741061155	geckodriver	INFO	Listening on 127.0.0.1:58408
+1653741064199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileYkO3n7"
+1653741064826	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileYkO3n7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58409/devtools/browser/5b27c790-79e6-4b8a-a2a2-2f493b27f9ca
+1653741069629	Marionette	INFO	Listening on port 58442
+Read port: 58442
+1653741070499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1653741095769	Marionette	INFO	Stopped listening on port 58442
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653741097527	geckodriver	INFO	Listening on 127.0.0.1:58505
+1653741100558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58506" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilePP0p8A"
+1653741101117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilePP0p8A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58506/devtools/browser/6cf33682-035d-4f92-8b01-a2c7e09771cc
+1653741105764	Marionette	INFO	Listening on port 58537
+Read port: 58537
+1653741106867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1653741114044	Marionette	INFO	Stopped listening on port 58537
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653741222449	geckodriver	INFO	Listening on 127.0.0.1:58701
+1653741225479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58702" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileLo3a28"
+1653741226063	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileLo3a28\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58702/devtools/browser/3135863d-b12d-4086-9cda-c355d1c8a9eb
+1653741230789	Marionette	INFO	Listening on port 58736
+Read port: 58736
+1653741232424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1653741259585	Marionette	INFO	Stopped listening on port 58731653741260938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileEYOGNm"
+1653741261502	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileEYOGNm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58801/devtools/browser/10b6c4c1-715a-472b-8c5e-5021d9f0d862
+1653741265992	Marionette	INFO	Listening on port 58834
+Read port: 58834
+1653741267032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1653741349894	Marionette	INFO	Stopped listening on port 58834
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ts, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofiletdAX8U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58936/devtools/browser/9ce98909-5363-463c-8a65-49c38ed6670d
+1653741333014	Marionette	INFO	Listening on port 58974
+Read port: 58974
+1653741334641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1653741347923	Marionette	INFO	Stopped listening on port 58974
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653741611908	geckodriver	INFO	Listening on 127.0.0.1:59379
+1653741614941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59380" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileVmqMtJ"
+1653741615521	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileVmqMtJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59380/devtools/browser/0e548c4c-caef-4a10-a63d-d77ba1f043f1
+1653741620367	Marionette	INFO	Listening on port 59410
+Read port: 59410
+1653741621815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1653741637190	Marionette	INFO	Stopped listening on port 59411653741639393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+rofileCinkyi"
+1653741639944	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileCinkyi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59453/devtools/browser/bfb96187-ff3b-4ded-ab1a-02ba25d46b93
+1653741644480	Marionette	INFO	Listening on port 59483
+Read port: 59483
+1653741644556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1653741652168	Marionette	INFO	Stopped listening on port 59483
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653741702308	geckodriver	INFO	Listening on 127.0.0.1:59589
+1653741705384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59590" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilee3czfC"
+1653741705870	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilee3czfC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59590/devtools/browser/0fcd36f3-dfd7-46fd-a4c2-1273c9061235
+1653741710503	Marionette	INFO	Listening on port 59619
+Read port: 59619
+1653741710726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1653741731702	Marionette	INFO	Stopped listening on port 59619
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653743124133	geckodriver	INFO	Listening on 127.0.0.1:64995
+1653743127183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64996" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilemTqfg8"
+1653743127712	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilemTqfg8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64996/devtools/browser/35499dd7-2cb2-4040-b104-0363417e1fa9
+1653743132298	Marionette	INFO	Listening on port 65029
+Read port: 65029
+1653743132377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1653743139853	Marionette	INFO	Stopped listening on port 65029
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653743313848	geckodriver	INFO	Listening on 127.0.0.1:49259
+1653743316889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49260" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilerffDMk"
+1653743317426	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilerffDMk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49260/devtools/browser/14c4aecc-1870-4d6b-b989-3c62c38ce4ca
+1653743321847	Marionette	INFO	Listening on port 49286
+Read port: 49286
+1653743322801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1653743336212	Marionette	INFO	Stopped listening on port 49286
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653743487950	geckodriver	INFO	Listening on 127.0.0.1:49498
+1653743491019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileEFxesw"
+1653743491502	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileEFxesw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49499/devtools/browser/48c942a3-0530-4fa7-ab93-d096ec6c14a6
+1653743496223	Marionette	INFO	Listening on port 49527
+Read port: 49527
+1653743497259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1653743510868	Marionette	INFO	Stopped listening on port 49527
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653743518988	geckodriver	INFO	Listening on 127.0.0.1:49579
+1653743522064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileAcR4vE"
+1653743522578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileAcR4vE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49580/devtools/browser/63cd5d4f-98b7-4241-bde6-4d1092f615dd
+1653743527208	Marionette	INFO	Listening on port 49615
+Read port: 49615
+1653743527277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1653743545694	Marionette	INFO	Stopped listening on port 49615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653743564455	geckodriver	INFO	Listening on 127.0.0.1:49696
+1653743567521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile2XKW6T"
+1653743568020	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile2XKW6T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49697/devtools/browser/dbbfb037-1a03-4507-91cf-24224245b325
+1653743572090	Marionette	INFO	Listening on port 49723
+Read port: 49723
+1653743573112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1653743701184	Marionette	INFO	Stopped listening on port 49723
+[Parent 6772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653743703219	geckodriver	INFO	Listening on 127.0.0.1:59133
+1653743706292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59134" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileweFBM1"
+1653743706807	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileweFBM1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59134/devtools/browser/beae769e-1106-4513-b829-ce6057ae4f43
+1653743711505	Marionette	INFO	Listening on port 59162
+Read port: 59162
+1653743711646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653743719196	Marionette	INFO	Stopped listening on port 59162
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653754898381	geckodriver	INFO	Listening on 127.0.0.1:51698
+1653754902002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileEfDDh7"
+1653754904646	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileEfDDh7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51699/devtools/browser/caba1960-1c4a-457a-a301-9b7a9e674606
+1653754910810	Marionette	INFO	Listening on port 51737
+Read port: 51737
+1653754912447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1653758447596	Marionette	INFO	Stopped listening on port 51737
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653759076125	geckodriver	INFO	Listening on 127.0.0.1:53731
+1653759079133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53732" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilek8keOr"
+1653759079828	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilek8keOr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53732/devtools/browser/736c6e4d-14f4-4036-9bc7-1c0819ca9b4e
+1653759084568	Marionette	INFO	Listening on port 53773
+Read port: 53773
+1653759084655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653759099213	Marionette	INFO	Stopped listening on port 53773
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13640, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653759101679	geckodriver	INFO	Listening on 127.0.0.1:53831
+1653759104692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53832" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileggYNDQ"
+1653759105270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileggYNDQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53832/devtools/browser/6d0c3809-f82d-4eef-974b-459e316275f8
+1653759109401	Marionette	INFO	Listening on port 53864
+Read port: 53864
+1653759109848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653759185365	Marionette	INFO	Stopped listening on port 53861653759186222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+rofilecolcjU"
+1653759186947	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilecolcjU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54002/devtools/browser/350a1ffa-f773-4c2b-8645-531193340bd1
+1653759191542	Marionette	INFO	Listening on port 54040
+Read port: 54040
+1653759192703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653759204706	Marionette	INFO	Stopped listening on port 54040
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653759379334	geckodriver	INFO	Listening on 127.0.0.1:54408
+1653759382348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilekkvAGM"
+1653759382977	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilekkvAGM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54409/devtools/browser/70952c04-64e2-4c52-a9b8-607cc7c268f6
+1653759387539	Marionette	INFO	Listening on port 54438
+Read port: 54438
+1653759388220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1653760871506	Marionette	INFO	Stopped listening on port 54438
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+te enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile4xYdzF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54655/devtools/browser/5b678a79-5bc2-4c11-a81c-06270d677aec
+1653759510056	Marionette	INFO	Listening on port 54685
+Read port: 54685
+1653759511078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653759529866	Marionette	INFO	Stopped listening on port 54685
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653759690459	geckodriver	INFO	Listening on 127.0.0.1:55102
+1653759693487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilegeN7AQ"
+1653759694110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilegeN7AQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55103/devtools/browser/39078a01-39a5-4ff3-bd2f-667d7d5e37b5
+1653759698530	Marionette	INFO	Listening on port 55136
+Read port: 55136
+1653759698654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653759707667	Marionette	INFO	Stopped listening on port 55136
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653759961217	geckodriver	INFO	Listening on 127.0.0.1:55578
+1653759964234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55579" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileID1tpf"
+1653759964757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileID1tpf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55579/devtools/browser/e2fcf4ec-8f90-4909-bf46-3cf80898d7d4
+1653759969215	Marionette	INFO	Listening on port 55612
+Read port: 55612
+1653759970423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653759995153	Marionette	INFO	Stopped listening on port 55612
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15736, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU1653759999796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55692" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileE4Khli"
+1653760000330	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileE4Khli\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55692/devtools/browser/a73b3ccd-c8fe-4852-93c6-a1cce1083d85
+1653760005107	Marionette	INFO	Listening on port 55727
+Read port: 55727
+1653760005193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653760036172	Marionette	INFO	Stopped listening on port 55727
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18104, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653760096531	geckodriver	INFO	Listening on 127.0.0.1:55894
+1653760099566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofiles9MtDh"
+1653760100145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofiles9MtDh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55895/devtools/browser/520b982c-7d11-479d-af4a-b9f7add3a496
+1653760104829	Marionette	INFO	Listening on port 55930
+Read port: 55930
+1653760104924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653760213674	Marionette	INFO	Stopped listening on port 55930
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653760795474	geckodriver	INFO	Listening on 127.0.0.1:57068
+1653760798517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileWopNUN"
+1653760799019	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileWopNUN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57069/devtools/browser/eba7bcab-a746-4616-8761-55926a29f136
+1653760803254	Marionette	INFO	Listening on port 57102
+Read port: 57102
+1653760803391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653760872281	Marionette	INFO	Stopped listening on port 57102
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653760873488	geckodriver	INFO	Listening on 127.0.0.1:57252
+1653760876529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofiletfNE7k"
+1653760877036	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofiletfNE7k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57253/devtools/browser/d5290c15-ca18-4695-8092-ecd39472e4d1
+1653760881244	Marionette	INFO	Listening on port 57285
+Read port: 57285
+1653760881327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653760893363	Marionette	INFO	Stopped listening on port 57285
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653760968145	geckodriver	INFO	Listening on 127.0.0.1:57466
+1653760971185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileCIR0El"
+1653760971693	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileCIR0El\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57467/devtools/browser/d068246a-0a9c-4ec3-8bf0-4799afe24551
+1653760976028	Marionette	INFO	Listening on port 57494
+Read port: 57494
+1653760977054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653760983929	Marionette	INFO	Stopped listening on port 57494
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17000, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653761036214	geckodriver	INFO	Listening on 127.0.0.1:57619
+1653761039268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57620" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilepqA9xC"
+1653761039766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilepqA9xC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57620/devtools/browser/5b6f2109-ef1e-4f14-9193-b9b01466a777
+1653761044125	Marionette	INFO	Listening on port 57650
+Read port: 57650
+1653761045117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1653761068199	Marionette	INFO	Stopped listening on port 57650
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653761091737	geckodriver	INFO	Listening on 127.0.0.1:57757
+1653761094807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileX8tr4M"
+1653761095324	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileX8tr4M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57758/devtools/browser/dd6194f4-43de-4b94-989a-8487ce4896fe
+1653761099769	Marionette	INFO	Listening on port 57792
+Read port: 57792
+1653761100672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653761156853	Marionette	INFO	Stopped listening on port 57792
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15384, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653765863129	geckodriver	INFO	Listening on 127.0.0.1:55688
+1653765867352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilepSBzRJ"
+1653765874325	Marionette	INFO	Marionette enabled
+1653765925914	geckodriver	INFO	Listening on 127.0.0.1:55798
+1653765928967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilex3eKrt"
+1653765929599	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilex3eKrt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55799/devtools/browser/10ef740c-7220-4f0d-9c42-fb8161b1df46
+1653765942332	Marionette	INFO	Listening on port 55835
+Read port: 55835
+1653765942558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653765986647	Marionette	INFO	Stopped listening on port 55835
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14628, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653798708929	geckodriver	INFO	Listening on 127.0.0.1:60566
+1653798712192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileLe5CuS"
+1653798715601	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileLe5CuS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60567/devtools/browser/aa3cf213-261c-41dd-8454-ce67a7cf4ce6
+1653798727207	Marionette	INFO	Listening on port 60606
+Read port: 60606
+1653798727433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653798771327	Marionette	INFO	Stopped listening on port 60606
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 898: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654061016172	geckodriver	INFO	Listening on 127.0.0.1:51251
+1654061019318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51252" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofiled7R7yW"
+1654061022723	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofiled7R7yW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51252/devtools/browser/95c8c878-bba6-46f5-8063-f6e238241f3b
+1654061033402	Marionette	INFO	Listening on port 51308
+Read port: 51308
+1654061033989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654062045972	Marionette	INFO	Stopped listening on port 51308
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1654062287795	geckodriver	INFO	Listening on 127.0.0.1:56983
+1654062290862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56984" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile9yPj5N"
+1654062291506	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile9yPj5N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56984/devtools/browser/3da146f3-c6e2-4d7e-b950-a1be2b0cd6a5
+1654062295888	Marionette	INFO	Listening on port 57012
+Read port: 57012
+1654062296247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654062318925	Marionette	INFO	Stopped listening on port 57012
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654062436990	geckodriver	INFO	Listening on 127.0.0.1:57256
+1654062440044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileFLQNYA"
+1654062440678	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileFLQNYA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57257/devtools/browser/2547fb30-8c4e-44ab-9798-8fb7e89d7543
+1654062445169	Marionette	INFO	Listening on port 57290
+Read port: 57290
+1654062446311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654062845632	Marionette	INFO	Stopped listening on port 57290
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3284, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 3284, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+o settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile0IGLOF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57548/devtools/browser/a35ea12b-96da-463b-a7ec-1e352acb3f94
+1654062605299	Marionette	INFO	Listening on port 57583
+Read port: 57583
+1654062606286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654062844125	Marionette	INFO	Stopped listening on port 57583
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654063081941	geckodriver	INFO	Listening on 127.0.0.1:58410
+1654063084985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58411" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile2bsR6L"
+1654063085546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile2bsR6L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58411/devtools/browser/1478435d-7534-4be3-91eb-4a7e49f7c372
+1654063089827	Marionette	INFO	Listening on port 58444
+Read port: 58444
+1654063089910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654063531751	Marionette	INFO	Stopped listening on port 58444
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12152, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1654063930749	geckodriver	INFO	Listening on 127.0.0.1:58179
+1654063933830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58180" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileT2KJnh"
+1654063934384	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileT2KJnh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58180/devtools/browser/79a96d2f-7440-441c-9793-5dd0113f7907
+1654063939170	Marionette	INFO	Listening on port 58209
+Read port: 58209
+1654063940169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654063980018	Marionette	INFO	Stopped listening on port 58209
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10788, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654064060499	geckodriver	INFO	Listening on 127.0.0.1:58446
+1654064063549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile22Lrdq"
+1654064064055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile22Lrdq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58447/devtools/browser/bd9ca6c9-f2bc-49ef-a1da-125900a42668
+1654064069255	Marionette	INFO	Listening on port 58481
+Read port: 58481
+1654064069476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654064090355	Marionette	INFO	Stopped listening on port 58481
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654066281560	geckodriver	INFO	Listening on 127.0.0.1:64037
+1654066284613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64038" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile8zXMau"
+1654066285234	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile8zXMau\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64038/devtools/browser/d2a5dc9f-1ff9-45e8-bdab-1921148c17e8
+1654066289823	Marionette	INFO	Listening on port 64069
+Read port: 64069
+1654066290603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1654066298050	Marionette	INFO	Stopped listening on port 64069
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14148, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654066355350	geckodriver	INFO	Listening on 127.0.0.1:64183
+1654066358415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileTRoUTF"
+1654066358968	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileTRoUTF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64184/devtools/browser/432df468-5e89-4e3b-a0de-7d6b26fce27e
+1654066363944	Marionette	INFO	Listening on port 64218
+Read port: 64218
+1654066365307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654066380408	Marionette	INFO	Stopped listening on port 64218
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654066520182	geckodriver	INFO	Listening on 127.0.0.1:64482
+1654066523233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile7yw8Db"
+1654066523931	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile7yw8Db\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64483/devtools/browser/13ddc019-5c19-493a-ac80-905105e01545
+1654066528329	Marionette	INFO	Listening on port 64513
+Read port: 64513
+1654066529595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654066543715	Marionette	INFO	Stopped listening on port 64513
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654066683159	geckodriver	INFO	Listening on 127.0.0.1:64786
+1654066686185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileLymVca"
+1654066686871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileLymVca\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64787/devtools/browser/b4864739-9e73-49fb-8f27-05f451813a1b
+1654066691506	Marionette	INFO	Listening on port 64819
+Read port: 64819
+1654066691961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654066722127	Marionette	INFO	Stopped listening on port 64819
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654066724056	geckodriver	INFO	Listening on 127.0.0.1:64897
+1654066727102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilepfqc5u"
+1654066727777	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilepfqc5u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64898/devtools/browser/f2294b58-1753-4062-a6ff-d9e3fb118a09
+1654066732590	Marionette	INFO	Listening on port 64932
+Read port: 64932
+1654066733583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654066745757	Marionette	INFO	Stopped listening on port 64932
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654066756398	geckodriver	INFO	Listening on 127.0.0.1:64985
+1654066759426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64986" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileE3Y35x"
+1654066760169	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileE3Y35x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64986/devtools/browser/7b0ca498-4353-4f38-9468-4e7eb14e3626
+1654066765018	Marionette	INFO	Listening on port 65017
+Read port: 65017
+1654066766023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 288: TypeError: InspectorUtils.setContentState: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654066794086	Marionette	INFO	Stopped listening on port 65017
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654066813042	geckodriver	INFO	Listening on 127.0.0.1:60513
+1654066816122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileH5zWZa"
+1654066816828	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileH5zWZa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60514/devtools/browser/71f75095-9c03-42c8-a0e3-e1912beca27a
+1654066821609	Marionette	INFO	Listening on port 60548
+Read port: 60548
+1654066822636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654066824308	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654066827355	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654066828082	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654066829677	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654066830779	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654066838526	Marionette	INFO	Stopped listening on port 60548
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654066983883	geckodriver	INFO	Listening on 127.0.0.1:60854
+1654066986948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilezQTjim"
+1654066987623	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilezQTjim\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60855/devtools/browser/c4bab4e5-9f55-41f4-81d8-434186050ac3
+1654066992042	Marionette	INFO	Listening on port 60887
+Read port: 60887
+1654066993125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654067043305	Marionette	INFO	Stopped listening on port 60887
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654067056851	geckodriver	INFO	Listening on 127.0.0.1:61025
+1654067059913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61026" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilefjrqJF"
+1654067060486	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilefjrqJF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61026/devtools/browser/88cf5762-434b-4e84-9e83-01a799f2ddd8
+1654067065237	Marionette	INFO	Listening on port 61064
+Read port: 61064
+1654067065637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654067613901	Marionette	INFO	Stopped listening on port 61064
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654069084701	geckodriver	INFO	Listening on 127.0.0.1:65095
+1654069087748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilep6Aqy9"
+1654069088388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilep6Aqy9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65096/devtools/browser/963298eb-c39a-4fd0-82d1-bbe0b6ae5616
+1654069092994	Marionette	INFO	Listening on port 65126
+Read port: 65126
+1654069094117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654069107713	Marionette	INFO	Stopped listening on port 65126
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654073346563	geckodriver	INFO	Listening on 127.0.0.1:56061
+1654073349612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56062" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilen3iqPB"
+1654073351044	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilen3iqPB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56062/devtools/browser/018fff46-6fac-4c1d-ba40-337bdfef6c29
+1654073356269	Marionette	INFO	Listening on port 56096
+Read port: 56096
+1654073357466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654073397401	Marionette	INFO	Stopped listening on port 56091654073398432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+rofileKb7wXo"
+1654073399111	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileKb7wXo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56184/devtools/browser/438296cc-28f9-4bbc-916a-70674fe74968
+1654073403778	Marionette	INFO	Listening on port 56217
+Read port: 56217
+1654073403933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654074530917	Marionette	INFO	Stopped listening on port 56217
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10092, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channeconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilegzWAuH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63032/devtools/browser/82ec1066-c242-4c01-87b1-4b8c1aa5e838
+1654074536731	Marionette	INFO	Listening on port 63065
+Read port: 63065
+1654074536912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967301/pagestyle25 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654074622537	Marionette	INFO	Stopped listening on port 63065
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654074706871	geckodriver	INFO	Listening on 127.0.0.1:63370
+1654074709919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileOSB4zk"
+1654074710461	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileOSB4zk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63371/devtools/browser/94e62bf3-53eb-410c-a055-7cd7220b5ff7
+1654074715399	Marionette	INFO	Listening on port 63404
+Read port: 63404
+1654074716422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654078029504	Marionette	INFO	Stopped listening on port 63404
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileXjeDuD"
+1654074940608	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileXjeDuD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63786/devtools/browser/a5081891-ea92-487b-9ba5-cd9d672b2784
+1654074945625	Marionette	INFO	Listening on port 63817
+Read port: 63817
+1654074947513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654078030437	Marionette	INFO	Stopped listening on port 63817
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654078046395	geckodriver	INFO	Listening on 127.0.0.1:56949
+1654078049446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56950" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileLF37EG"
+1654078050036	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileLF37EG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56950/devtools/browser/be24256f-12a9-44db-ba47-5185ed2b5e4a
+1654078054725	Marionette	INFO	Listening on port 56980
+Read port: 56980
+1654078054856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654078088743	Marionette	INFO	Stopped listening on port 56980
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654078090222	geckodriver	INFO	Listening on 127.0.0.1:57079
+1654078093279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57080" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile1cX5Ci"
+1654078093829	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile1cX5Ci\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57080/devtools/browser/9befe75e-ced8-406f-ba47-0d1a62dc1e8f
+1654078098592	Marionette	INFO	Listening on port 57112
+Read port: 57112
+1654078099367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654078406159	Marionette	INFO	Stopped listening on port 57112
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654081564476	geckodriver	INFO	Listening on 127.0.0.1:52846
+1654081567529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileWeCqr1"
+1654081568349	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileWeCqr1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52847/devtools/browser/28311645-47d6-4946-982b-b60ef9e1a061
+1654081573331	Marionette	INFO	Listening on port 64539
+Read port: 64539
+1654081573751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654082046376	Marionette	INFO	Stopped listening on port 64539
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654082176398	geckodriver	INFO	Listening on 127.0.0.1:63166
+1654082179448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63167" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileOM9UMn"
+1654082179992	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileOM9UMn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63167/devtools/browser/94221988-e004-4020-9fa3-37d1a7802953
+1654082184501	Marionette	INFO	Listening on port 63199
+Read port: 63199
+1654082185580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1654082197423	Marionette	INFO	Stopped listening on port 63199
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654082599028	geckodriver	INFO	Listening on 127.0.0.1:63952
+1654082602087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile4uHCNU"
+1654082602641	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile4uHCNU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63953/devtools/browser/0de8d1f5-779e-4602-95e0-f34f4b8f6017
+1654082606883	Marionette	INFO	Listening on port 63984
+Read port: 63984
+1654082607773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654082622836	Marionette	INFO	Stopped listening on port 63984
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654082925608	geckodriver	INFO	Listening on 127.0.0.1:64525
+1654082928654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64526" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilekH3T5g"
+1654082929282	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilekH3T5g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64526/devtools/browser/e523e770-74ae-4203-9288-0cfa0bc7fa43
+1654082933986	Marionette	INFO	Listening on port 64558
+Read port: 64558
+1654082935005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654082961774	Marionette	INFO	Stopped listening on port 64558
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15920, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+cal\\Temp\\rust_mozprofile7dYhKP"
+1654082941524	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile7dYhKP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64580/devtools/browser/1250f0f2-a826-4883-b129-db877a8cb60e
+1654082947869	Marionette	INFO	Listening on port 64639
+Read port: 64639
+1654082948727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1654082960093	Marionette	INFO	Stopped listening on port 64639
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654083106370	geckodriver	INFO	Listening on 127.0.0.1:64914
+1654083109409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileKEctth"
+1654083110096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileKEctth\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64915/devtools/browser/67691740-12a1-4aa9-ba4a-4d50f81f0b30
+1654083114557	Marionette	INFO	Listening on port 64953
+Read port: 64953
+1654083115614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654083117025	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654083941957	Marionette	INFO	Stopped listening on port 64953
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+te enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileibbc6N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65319/devtools/browser/0fad8387-4497-46ef-be8d-1c78c5e9dc84
+1654083321779	Marionette	INFO	Listening on port 65348
+Read port: 65348
+1654083321859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654083347017	Marionette	INFO	Stopped listening on port 65348
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1384, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654083373421	geckodriver	INFO	Listening on 127.0.0.1:65455
+1654083376469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65456" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileNpFLMZ"
+1654083377081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileNpFLMZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65456/devtools/browser/415d75c1-c7d5-4279-9e8a-4795073406ab
+1654083381675	Marionette	INFO	Listening on port 65488
+Read port: 65488
+1654083382373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654083393707	Marionette	INFO	Stopped listening on port 65488
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654083905775	geckodriver	INFO	Listening on 127.0.0.1:50035
+1654083908832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50036" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilectKPm3"
+1654083909438	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilectKPm3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50036/devtools/browser/e182f7ad-d40c-4514-9448-cdb54dd754ba
+1654083914175	Marionette	INFO	Listening on port 50067
+Read port: 50067
+1654083915902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1654083942958	Marionette	INFO	Stopped listening on port 50067
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU1654083947954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50140" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileR6K5fu"
+1654083949197	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileR6K5fu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50140/devtools/browser/7275279d-cef6-4996-9060-b43957e61215
+1654083953614	Marionette	INFO	Listening on port 50170
+Read port: 50170
+1654083954627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654083969157	Marionette	INFO	Stopped listening on port 50170
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654084174502	geckodriver	INFO	Listening on 127.0.0.1:50562
+1654084177561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50563" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilefUzutu"
+1654084178079	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilefUzutu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50563/devtools/browser/0d97dbd9-5e8b-4e98-8eaf-56756ceb2182
+1654084182558	Marionette	INFO	Listening on port 50592
+Read port: 50592
+1654084183170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654084195565	Marionette	INFO	Stopped listening on port 50592
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654084542607	geckodriver	INFO	Listening on 127.0.0.1:51259
+1654084545696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51260" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilenvRGu3"
+1654084546230	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilenvRGu3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51260/devtools/browser/1db1b427-69f8-4cb0-a07c-991714b46dd7
+1654084551638	Marionette	INFO	Listening on port 51295
+Read port: 51295
+1654084551879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654084572106	Marionette	INFO	Stopped listening on port 51295
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654084751652	geckodriver	INFO	Listening on 127.0.0.1:51635
+1654084754758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51636" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofiletlBvsE"
+1654084755358	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofiletlBvsE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51636/devtools/browser/fcd0a0bd-1918-4fe1-aec0-9a13f6fc3cf5
+1654084759961	Marionette	INFO	Listening on port 51669
+Read port: 51669
+1654084761054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654084778972	Marionette	INFO	Stopped listening on port 51669
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1654084823172	geckodriver	INFO	Listening on 127.0.0.1:51801
+1654084831476	geckodriver	INFO	Listening on 127.0.0.1:51826
+1654084834534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileXLSM9b"
+1654084835129	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileXLSM9b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51827/devtools/browser/8e5e92c0-6a92-40ac-a34f-f7e798496ab2
+1654084839639	Marionette	INFO	Listening on port 51864
+Read port: 51864
+1654084840607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654084860541	Marionette	INFO	Stopped listening on port 51864
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1654084945908	geckodriver	INFO	Listening on 127.0.0.1:63222
+1654084948943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofiledly2k8"
+1654084949579	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofiledly2k8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63223/devtools/browser/122dd113-e982-463b-ae72-6311a30c710d
+1654084955168	Marionette	INFO	Listening on port 63258
+Read port: 63258
+1654084955773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654084969218	Marionette	INFO	Stopped listening on port 63258
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654085125815	geckodriver	INFO	Listening on 127.0.0.1:63577
+1654085128848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63578" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileYxYMar"
+1654085129449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileYxYMar\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63578/devtools/browser/ca922fc4-88c4-42dc-a41d-c9e119cda3e1
+1654085134123	Marionette	INFO	Listening on port 63611
+Read port: 63611
+1654085134230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654085148477	Marionette	INFO	Stopped listening on port 63611
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654085206220	geckodriver	INFO	Listening on 127.0.0.1:63754
+1654085209270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofiledvw9r9"
+1654085209890	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofiledvw9r9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63755/devtools/browser/d18c149e-1a1b-47a5-9def-c4405ae81c2c
+1654085214587	Marionette	INFO	Listening on port 63793
+Read port: 63793
+1654085214641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654085245954	Marionette	INFO	Stopped listening on port 63793
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654085341020	geckodriver	INFO	Listening on 127.0.0.1:56228
+1654085344074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56229" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileNeKsSN"
+1654085344711	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileNeKsSN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56229/devtools/browser/659cbf6b-04cf-4739-9eb5-57843fbf5e73
+1654085349150	Marionette	INFO	Listening on port 56260
+Read port: 56260
+1654085350119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654087083425	Marionette	INFO	Stopped listening on port 56260
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3640, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileRrETrA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56382/devtools/browser/8e93f5c7-3483-46a4-bcba-9033b4779068
+1654085415474	Marionette	INFO	Listening on port 56415
+Read port: 56415
+1654085415522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654085425350	Marionette	INFO	Stopped listening on port 56415
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5716, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1654085440400	geckodriver	INFO	Listening on 127.0.0.1:56486
+1654085443451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilejFNLoO"
+1654085444118	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilejFNLoO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56487/devtools/browser/ec953f3a-0f17-4716-bcf5-48aaba3fd026
+1654085448644	Marionette	INFO	Listening on port 56527
+Read port: 56527
+1654085449627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 288: TypeError: InspectorUtils.setContentState: Argument 1 is not an object.
+1654085462401	Marionette	INFO	Stopped listening on port 56527
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654085498450	geckodriver	INFO	Listening on 127.0.0.1:56630
+1654085501501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilebxhHUM"
+1654085502110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilebxhHUM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56631/devtools/browser/2ade83dc-bbff-4651-ac93-0851f28d0389
+1654085506681	Marionette	INFO	Listening on port 56671
+Read port: 56671
+1654085507955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654085521306	Marionette	INFO	Stopped listening on port 56671
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654085567993	geckodriver	INFO	Listening on 127.0.0.1:56793
+1654085571038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56794" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileSy41CM"
+1654085571691	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileSy41CM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56794/devtools/browser/c67253c8-58c7-4f75-8604-379b5cfb019f
+1654085576482	Marionette	INFO	Listening on port 56826
+Read port: 56826
+1654085577758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654085608123	Marionette	INFO	Stopped listening on port 56826
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654085716169	geckodriver	INFO	Listening on 127.0.0.1:57072
+1654085719223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileHKUybo"
+1654085719839	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileHKUybo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57073/devtools/browser/7184b3d8-2ce2-4b31-975b-e66749d71d9e
+1654085724654	Marionette	INFO	Listening on port 57104
+Read port: 57104
+1654085724728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654085736206	Marionette	INFO	Stopped listening on port 57104
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654085789168	geckodriver	INFO	Listening on 127.0.0.1:57231
+1654085792202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57232" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofiledJTOjf"
+1654085792861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofiledJTOjf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57232/devtools/browser/c2e22c00-ad77-44aa-a172-da359f1f841f
+1654085797215	Marionette	INFO	Listening on port 57262
+Read port: 
+1654085797237	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 57262
+1654085798422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654085835863	Marionette	INFO	Stopped listening on port 57262
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1654085858602	geckodriver	INFO	Listening on 127.0.0.1:57382
+1654085861635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileLHgKLk"
+1654085862301	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileLHgKLk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57383/devtools/browser/9cb28f09-2228-4801-b8c3-53c5c573c4d9
+1654085867314	Marionette	INFO	Listening on port 57416
+Read port: 57416
+1654085868327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654087081542	Marionette	INFO	Stopped listening on port 57416
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+te enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileY10UWb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57708/devtools/browser/9bb28f02-0430-4ff3-8a22-77474e13d582
+1654086039498	Marionette	INFO	Listening on port 57736
+Read port: 57736
+1654086039913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654086119129	Marionette	INFO	Stopped listening on port 57736
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15052, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1654087112961	geckodriver	INFO	Listening on 127.0.0.1:59515
+1654087116017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59516" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileGoKcLK"
+1654087116562	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileGoKcLK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59516/devtools/browser/5da412ae-3bc4-47d6-976f-023ee47e5050
+1654087121189	Marionette	INFO	Listening on port 59547
+Read port: 59547
+1654087122329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654087128666	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654087132542	Marionette	INFO	Stopped listening on port 59547
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654087159665	geckodriver	INFO	Listening on 127.0.0.1:59634
+1654087162733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileUYvF0l"
+1654087163243	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileUYvF0l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59635/devtools/browser/0deda6b5-3c43-4fc2-8af8-647febe96642
+1654087167546	Marionette	INFO	Listening on port 59665
+Read port: 59665
+1654087167622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654087173640	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654087181066	Marionette	INFO	Stopped listening on port 59665
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1654087202418	geckodriver	INFO	Listening on 127.0.0.1:59746
+1654087205475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59747" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilevZprOo"
+1654087205998	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilevZprOo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59747/devtools/browser/9fdb3905-1005-4b7c-9dd7-470f7340f9d3
+1654087210608	Marionette	INFO	Listening on port 59780
+Read port: 59780
+1654087211428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654087218420	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654087238603	Marionette	INFO	Stopped listening on port 59780
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654087284322	geckodriver	INFO	Listening on 127.0.0.1:59926
+1654087287395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileOFBZyM"
+1654087287900	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileOFBZyM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59927/devtools/browser/a6f1f4db-9640-45c9-8551-73760440a74f
+1654087292329	Marionette	INFO	Listening on port 59961
+Read port: 59961
+1654087293290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654087294918	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654087298059	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654087298773	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654087300229	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654087307476	Marionette	INFO	Stopped listening on port 59961
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654087339105	geckodriver	INFO	Listening on 127.0.0.1:60070
+1654087342170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileRUTQOn"
+1654087342704	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileRUTQOn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60071/devtools/browser/9842c233-d7bd-423a-a439-993da8044f5f
+1654087347119	Marionette	INFO	Listening on port 60103
+Read port: 60103
+1654087348033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654087355147	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654087372763	Marionette	INFO	Stopped listening on port 60103
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654087766813	geckodriver	INFO	Listening on 127.0.0.1:60796
+1654087769888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileXMzvRk"
+1654087770392	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileXMzvRk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60797/devtools/browser/0f40984b-6bff-492f-a45b-8e121221b2f5
+1654087774558	Marionette	INFO	Listening on port 60827
+Read port: 60827
+1654087775444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654087808246	Marionette	INFO	Stopped listening on port 60827
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654087810097	geckodriver	INFO	Listening on 127.0.0.1:60918
+1654087813169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilejuInip"
+1654087813672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilejuInip\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60919/devtools/browser/2e8515b4-bbcb-460d-82c0-82271a565d2a
+1654087818113	Marionette	INFO	Listening on port 60950
+Read port: 60950
+1654087819040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654088123267	Marionette	INFO	Stopped listening on port 60950
+[Parent 16276, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654087963602	geckodriver	INFO	Listening on 127.0.0.1:61255
+1654087966678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61256" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile8uJCPg"
+1654087967225	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile8uJCPg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61256/devtools/browser/5d5a14ab-2ef4-4cb1-93c5-e6011129cc33
+1654087971500	Marionette	INFO	Listening on port 61294
+Read port: 61294
+1654087971895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654087978966	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654087991929	Marionette	INFO	Stopped listening on port 61294
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654088134616	geckodriver	INFO	Listening on 127.0.0.1:61572
+1654088137678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilenArm9u"
+1654088138193	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilenArm9u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61573/devtools/browser/e1d4ecaa-5461-40e9-bd8c-f489d54d662d
+1654088142483	Marionette	INFO	Listening on port 61603
+Read port: 61603
+1654088142834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654088292844	Marionette	INFO	Stopped listening on port 61603
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5928, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654088304462	geckodriver	INFO	Listening on 127.0.0.1:61892
+1654088307543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilerhVHwW"
+1654088308076	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilerhVHwW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61893/devtools/browser/5f3deae7-6525-40ad-aa4d-2a70de435623
+1654088312382	Marionette	INFO	Listening on port 61925
+Read port: 61925
+1654088313244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654088379294	Marionette	INFO	Stopped listening on port 61925
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654088435924	geckodriver	INFO	Listening on 127.0.0.1:62176
+1654088439003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileqUNhvR"
+1654088439511	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileqUNhvR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62177/devtools/browser/9de7c3af-ee2a-4e78-aeed-5a3adf3f53b3
+1654088443960	Marionette	INFO	Listening on port 62210
+Read port: 62210
+1654088444677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654088511788	Marionette	INFO	Stopped listening on port 62210
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654088521231	geckodriver	INFO	Listening on 127.0.0.1:62379
+1654088524308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62380" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilekgZ768"
+1654088524844	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofilekgZ768\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62380/devtools/browser/629a1c64-0430-4696-be4e-d07064ff118d
+1654088529327	Marionette	INFO	Listening on port 62412
+Read port: 62412
+1654088530656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654088537606	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654088790219	Marionette	INFO	Stopped listening on port 62412
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654400830139	geckodriver	INFO	Listening on 127.0.0.1:51857
+1654400834441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51858" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile1N8MWS"
+1654400841064	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile1N8MWS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51858/devtools/browser/8ff6e04f-e98d-4176-94ed-4ecd053d6e5a
+1654400857696	Marionette	INFO	Listening on port 51882
+Read port: 51882
+1654400858145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+1654400864284	Marionette	INFO	Stopped listening on port 51882
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654400882239	geckodriver	INFO	Listening on 127.0.0.1:51894
+1654400885265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile6pPQ5A"
+1654400886019	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofile6pPQ5A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51895/devtools/browser/51ce7d15-7ec8-475d-9fb1-b72feac24b40
+1654400890524	Marionette	INFO	Listening on port 51913
+Read port: 51913
+1654400890636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654400898230	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654400981668	Marionette	INFO	Stopped listening on port 51913
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8936, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 8936, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:556
+1654764936807	geckodriver	INFO	Listening on 127.0.0.1:61823
+1654764939926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61824" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileUXg5A1"
+1654764943147	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileUXg5A1\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:61824/devtools/browser/cb8e8c83-cf36-415e-83a9-7ce4f4ad67df
+1654764953260	Marionette	INFO	Listening on port 61852
+Read port: 61852
+1654764953563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654764961685	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1654765030013	Marionette	INFO	Stopped listening on port 61851654765031909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileM3fxJl"
+1654765032505	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileM3fxJl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61924/devtools/browser/913c25b8-8bb5-4fba-be39-2ff5b63bc7da
+1654765037160	Marionette	INFO	Listening on port 61962
+Read port: 61962
+1654765037493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654765084430	Marionette	INFO	Stopped listening on port 61962
+[Parent 9728, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:725
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU1654765090310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileubjpcE"
+1654765090954	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biggloin\\AppData\\Local\\Temp\\rust_mozprofileubjpcE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62035/devtools/browser/0fe7ed2b-7bd6-407c-9b4d-be244413472f
+1654765095124	Marionette	INFO	Listening on port 62057
+Read port: 62057
+1654765096261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://passport.is74.ru/login, line 109: TypeError: jQuery(...).yiiActiveForm is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://noc-new.is74.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654765110908	Marionette	INFO	Stopped listening on port 62057
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
